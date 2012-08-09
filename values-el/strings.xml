@@ -57,10 +57,10 @@
     <string name="menu_toggle_dim">Toggle night mode</string>
     <string name="zenith">ZENITH</string>
     <string name="nadir">NADIR</string>
-    <string name="north">NORTH</string>
-    <string name="east">EAST</string>
-    <string name="west">WEST</string>
-    <string name="south">SOUTH</string>
+    <string name="north">ΒΟΡΑΣ</string>
+    <string name="east">ΑΝΑΤΟΛΗ</string>
+    <string name="west">ΔΥΣΗ</string>
+    <string name="south">ΝΟΤΟΣ</string>
     <string name="search_label">Search the Sky</string>
     <string name="search_hint"  translation_description="an example search target">e.g. Mars</string>
     <string name="no_search_title">No results</string>
@@ -114,17 +114,17 @@
     <string name="sun_wont_set_message">The sun will not set during the next 24 hours at your current location.</string>
     <string name="sun_wont_rise_message">The sun will not rise during the next 24 hours at your current location.</string>
 
-    <string name="sun">Sun</string>
-    <string name="moon">Moon</string>
-    <string name="mercury">Mercury</string>
-    <string name="venus">Venus</string>
+    <string name="sun">Ήλιος</string>
+    <string name="moon">Σελήνη</string>
+    <string name="mercury">Ερμής</string>
+    <string name="venus">Αφροδίτη</string>
     <string name="earth">Earth</string>
-    <string name="mars">Mars</string>
-    <string name="jupiter">Jupiter</string>
-    <string name="saturn">Saturn</string>
-    <string name="uranus">Uranus</string>
-    <string name="neptune">Neptune</string>
-    <string name="pluto">Pluto</string>
+    <string name="mars">Άρης</string>
+    <string name="jupiter">Δίας</string>
+    <string name="saturn">Κρόνος</string>
+    <string name="uranus">Ουρανός</string>
+    <string name="neptune">Ποσειδώνας</string>
+    <string name="pluto">Πλούτωνας</string>
     <string name="crab_nebula" translation_description="hubble object">Crab Nebula</string>
     <string name="eagle_nebula" translation_description="hubble object">Eagle Nebula</string>
     <string name="andromeda_galaxy" translation_description="hubble object">Andromeda Galaxy</string>
@@ -147,8 +147,8 @@
     <string name="allow_rotation_pref" translation_description="preference to enable rotation of the map with a two finger movement">Multitouch rotation</string>
     <string name="allow_rotation_pref_desc" translation_description="a qualification for the Multitouch rotation option">if supported by the phone</string>
 
-    <string name="north_pole">NP</string>
-    <string name="south_pole">SP</string>
+    <string name="north_pole">ΒΠ</string>
+    <string name="south_pole">ΝΠ</string>
 
     <string name="andromeda" translation_description="Name of the Andromeda constellation">Andromeda</string>
     <string name="aquarius" translation_description="Name of the Aquarius constellation">Aquarius</string>
@@ -186,10 +186,10 @@
     <string name="puppis" translation_description="Name of the Puppis constellation">Puppis</string>
     <string name="sagittarius" translation_description="Name of the Sagittarius constellation">Sagittarius</string>
     <string name="scorpius" translation_description="Name of the Scorpius constellation">Scorpius</string>
-    <string name="taurus" translation_description="Name of the Taurus constellation">Taurus</string>
+    <string name="taurus" translation_description="Name of the Taurus constellation">Ταύρος</string>
     <string name="tucana" translation_description="Name of the Tucana constellation">Tucana</string>
-    <string name="ursa_major" translation_description="Name of the Ursa Major constellation">Ursa Major</string>
-    <string name="ursa_minor" translation_description="Name of the Ursa Minor constellation">Ursa Minor</string>
+    <string name="ursa_major" translation_description="Name of the Ursa Major constellation">Μεγάλη Άρκτος</string>
+    <string name="ursa_minor" translation_description="Name of the Ursa Minor constellation">Μικρή Άρκτος</string>
     <string name="vela" translation_description="Name of the Vela constellation">Vela</string>
     <string name="virgo" translation_description="Name of the Virgo constellation">Virgo</string>
     <string name="capricorn" translation_description="Name of the Capricorn constellation">Capricorn</string>
@@ -400,7 +400,7 @@
     <string name="lyrids" translation_description="Meteor Shower">Lyrids</string>
     <string name="aquariids" translation_description="Meteor Shower">Eta Aquariids</string>
     <string name="deltaaquariids" translation_description="Meteor Shower">Delta Aquariids</string>
-    <string name="perseids" translation_description="Meteor Shower">Perseids</string>
+    <string name="perseids" translation_description="Meteor Shower">Περσείδες</string>
     <string name="orionids" translation_description="Meteor Shower">Orionids</string>
     <string name="puppidvelids" translation_description="Meteor Shower">Puppid-Velids</string>
     <string name="ursids" translation_description="Meteor Shower">Ursids</string>
