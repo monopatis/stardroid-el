@@ -2,9 +2,9 @@
 <!-- Please add  translation_description="" attributes to Strings to assist the translators. -->
 <resources>
     <string name="app_name" translation_description="Application Title">Sky Map</string>
-    <string name="menu_settings">Settings</string>
-    <string name="menu_search">Search</string>
-    <string name="cancel">Cancel</string>
+    <string name="menu_settings">Ρυθμίσεις</string>
+    <string name="menu_search">Αναζήτηση</string>
+    <string name="cancel">Ακύρωση</string>
     <string name="set" translation_description="Button label. Set the date to the given value">Set</string>
     <string name="go">Go!</string>
     <string name="location_prefs">Location Settings</string>
@@ -17,7 +17,7 @@
     <string name="location_lat_pref">Latitude</string>
     <string name="location_long_pref">Longitude</string>
     <string name="degrees" translation_description="angular degrees">Degrees</string>
-    <string name="preferences">preferences</string>
+    <string name="preferences">προτιμήσεις</string>
     <string name="location_no_auto">Your phone does not support auto-location.   You can set the location manually in preferences.</string>
     <string name="location_offer_to_enable">Auto-location is disabled.  Would you like to enable it?</string>
     <string name="location_offer_to_enable_gps_title">Auto-location disabled</string>
@@ -30,24 +30,24 @@
     <string name="use_magnetic_correction">Use magnetic correction</string>
     <string name="use_magnetic_correction_hint">Use knowledge of your location to correct orientation from magnetic north to true north</string><!-- This string is too long and currently unused -->
     <string name="provider_prefs" translation_description="Dialog box title for a preferences dialog">Show...</string>
-    <string name="show_stars_pref">Stars</string>
+    <string name="show_stars_pref">Άστρα</string>
     <string name="show_constellations_pref">Constellations</string>
     <string name="show_messier_objects_pref" translation_description="The celestial objects catalogued by Charles Messier">Messier Objects</string>
-    <string name="show_planets_pref">Planets</string>
+    <string name="show_planets_pref">Πλανήτες</string>
     <string name="show_grid_pref">RA/Dec Grid</string>
     <string name="show_horizon_pref">Horizon</string>
     <string name="show_sky_gradient" translation_description="This is a shading of the color of the sky used for effect">Sky Gradient</string>
-    <string name="show_meteors_pref">Meteor Showers</string>
+    <string name="show_meteors_pref">Βροχή Μετεωριτών</string>
     <string name="sensor_prefs">Sensor Settings</string>
     <string name="sensor_speed" translation_description="How quickly the sensor should send us data">Sensor Speed</string>
     <string name="sensor_damping" translation_description="The amount of smoothing applied to the sensor outputs.">Damping</string>
-    <string name="ecliptic">Ecliptic</string>
+    <string name="ecliptic">Εκλειπτική</string>
     <!-- Just in case we decide to have such a layer for the 4/24 launch -->
     <string name="show_hubble_layer_pref">Hubble Images</string>
     <string name="malformed_loc_error">Latitude or longitude setting isn\'t a number.</string>
-    <string name="dialog_accept"  translation_description="accepting the licence agreement">Accept</string>
-    <string name="dialog_decline" translation_description="declining the licence agreement">No Thanks</string>
-    <string name="menu_help"  translation_description="menu item to show \'Help\' box">Help</string>
+    <string name="dialog_accept"  translation_description="accepting the licence agreement">Αποδοχή</string>
+    <string name="dialog_decline" translation_description="declining the licence agreement">Όχι ευχαριστώ</string>
+    <string name="menu_help"  translation_description="menu item to show \'Help\' box">Βοήθεια</string>
     <string name="help_dialog_title">Help for Sky Map</string>
     <string name="eula_dialog_title">End User License Agreement</string>
     <string name="set_manual">Switching to manual mode</string>
@@ -62,8 +62,8 @@
     <string name="west">ΔΥΣΗ</string>
     <string name="south">ΝΟΤΟΣ</string>
     <string name="search_label">Search the Sky</string>
-    <string name="search_hint"  translation_description="an example search target">e.g. Mars</string>
-    <string name="no_search_title">No results</string>
+    <string name="search_hint"  translation_description="an example search target">π.χ. Άρης</string>
+    <string name="no_search_title">Κανένα αποτέλεσμα</string>
     <string name="no_search_results_text">No results were found.</string>
     <string name="many_search_results_title">Did you mean?</string>
     <string name="many_search_results_text">Please select one</string>
@@ -118,7 +118,7 @@
     <string name="moon">Σελήνη</string>
     <string name="mercury">Ερμής</string>
     <string name="venus">Αφροδίτη</string>
-    <string name="earth">Earth</string>
+    <string name="earth">Γη</string>
     <string name="mars">Άρης</string>
     <string name="jupiter">Δίας</string>
     <string name="saturn">Κρόνος</string>
@@ -134,7 +134,7 @@
     <string name="pinwheel_galaxy" translation_description="hubble object">Pinwheel Galaxy</string>
     <string name="sombrero_galaxy" translation_description="hubble object">Sombrero Galaxy</string>
     <string name="hercules_gc" translation_description="hubble object">Hercules Globular Cluster</string>
-    <string name="pleiades" translation_description="hubble object">Pleiades</string>
+    <string name="pleiades" translation_description="hubble object">Πλειάδες</string>
     <string name="cats_eye_nebula" translation_description="hubble object">Cat\'s Eye Nebula</string>
     <string name="omega_centauri" translation_description="hubble object">Omega Centauri Globular Cluster</string>
     <string name="v838_mon" translation_description="hubble object">V838 Monocerotis</string>
@@ -150,42 +150,42 @@
     <string name="north_pole">ΒΠ</string>
     <string name="south_pole">ΝΠ</string>
 
-    <string name="andromeda" translation_description="Name of the Andromeda constellation">Andromeda</string>
+    <string name="andromeda" translation_description="Name of the Andromeda constellation">Ανδρομέδα</string>
     <string name="aquarius" translation_description="Name of the Aquarius constellation">Aquarius</string>
     <string name="aquila" translation_description="Name of the Aquila constellation">Aquila</string>
     <string name="aries" translation_description="Name of the Aries constellation">Aries</string>
     <string name="auriga" translation_description="Name of the Auriga constellation">Auriga</string>
     <string name="bootes" translation_description="Name of the Bootes constellation">Bootes</string>
-    <string name="cancer" translation_description="Name of the Cancer constellation">Cancer</string>
+    <string name="cancer" translation_description="Name of the Cancer constellation">Καρκίνος</string>
     <string name="canis_major" translation_description="Name of the Canis Major constellation">Canis Major</string>
     <string name="capricornus" translation_description="Name of the Capricornus constellation">Capricornus</string>
     <string name="carina" translation_description="Name of the Carina constellation">Carina</string>
-    <string name="cassiopeia" translation_description="Name of the Cassiopeia constellation">Cassiopeia</string>
-    <string name="centaurus" translation_description="Name of the Centaurus constellation">Centaurus</string>
+    <string name="cassiopeia" translation_description="Name of the Cassiopeia constellation">Κασσιόπη</string>
+    <string name="centaurus" translation_description="Name of the Centaurus constellation">Κένταυρος</string>
     <string name="cetus" translation_description="Name of the Cetus constellation">Cetus</string>
     <string name="crux" translation_description="Name of the Crux constellation">Crux</string>
-    <string name="cygnus" translation_description="Name of the Cygnus constellation">Cygnus</string>
-    <string name="draco" translation_description="Name of the Draco constellation">Draco</string>
+    <string name="cygnus" translation_description="Name of the Cygnus constellation">Κύκνος</string>
+    <string name="draco" translation_description="Name of the Draco constellation">Δράκοντας</string>
     <string name="eridanus" translation_description="Name of the Eridanus constellation">Eridanus</string>
     <string name="gemini" translation_description="Name of the Gemini constellation">Gemini</string>
     <string name="grus" translation_description="Name of the Grus constellation">Grus</string>
-    <string name="hercules" translation_description="Name of the Hercules constellation">Hercules</string>
+    <string name="hercules" translation_description="Name of the Hercules constellation">Ηρακλής</string>
     <string name="hydrus" translation_description="Name of the Hydrus constellation">Hydrus</string>
     <string name="leo" translation_description="Name of the Leo constellation">Leo</string>
     <string name="libra" translation_description="Name of the Libra constellation">Libra</string>
     <string name="lupus" translation_description="Name of the Lupus constellation">Lupus</string>
-    <string name="lyra" translation_description="Name of the Lyra constellation">Lyra</string>
+    <string name="lyra" translation_description="Name of the Lyra constellation">Λύρα</string>
     <string name="ophiuchus" translation_description="Name of the Ophiuchus constellation">Ophiuchus</string>
-    <string name="orion" translation_description="Name of the Orion constellation">Orion</string>
+    <string name="orion" translation_description="Name of the Orion constellation">Ορίων</string>
     <string name="pavo" translation_description="Name of the Pavo constellation">Pavo</string>
-    <string name="pegasus" translation_description="Name of the Pegasus constellation">Pegasus</string>
-    <string name="perseus" translation_description="Name of the Perseus constellation">Perseus</string>
-    <string name="phoenix" translation_description="Name of the Phoenix constellation">Phoenix</string>
+    <string name="pegasus" translation_description="Name of the Pegasus constellation">Πήγασος</string>
+    <string name="perseus" translation_description="Name of the Perseus constellation">Περσέας</string>
+    <string name="phoenix" translation_description="Name of the Phoenix constellation">Φοίνικας</string>
     <string name="pisces" translation_description="Name of the Pisces constellation">Pisces</string>
     <string name="piscis_austrinus" translation_description="Name of the Piscis Austrinus constellation">Piscis Austrinus</string>
     <string name="puppis" translation_description="Name of the Puppis constellation">Puppis</string>
     <string name="sagittarius" translation_description="Name of the Sagittarius constellation">Sagittarius</string>
-    <string name="scorpius" translation_description="Name of the Scorpius constellation">Scorpius</string>
+    <string name="scorpius" translation_description="Name of the Scorpius constellation">Σκορπιός</string>
     <string name="taurus" translation_description="Name of the Taurus constellation">Ταύρος</string>
     <string name="tucana" translation_description="Name of the Tucana constellation">Tucana</string>
     <string name="ursa_major" translation_description="Name of the Ursa Major constellation">Μεγάλη Άρκτος</string>
@@ -194,7 +194,7 @@
     <string name="virgo" translation_description="Name of the Virgo constellation">Virgo</string>
     <string name="capricorn" translation_description="Name of the Capricorn constellation">Capricorn</string>
     <string name="southern_cross" translation_description="Name of the Southern Cross constellation">Southern Cross</string>
-    <string name="scorpio" translation_description="Name of the Scorpio constellation">Scorpio</string>
+    <string name="scorpio" translation_description="Name of the Scorpio constellation">Σκορπιός</string>
     <string name="little_dipper" translation_description="Name of the Little Dipper constellation">Little Dipper</string>
     <string name="little_bear" translation_description="Name of the Little Bear constellation">Little Bear</string>
     <string name="big_dipper" translation_description="Name of the Big Dipper constellation">Big Dipper</string>
