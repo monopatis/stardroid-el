@@ -151,43 +151,43 @@
     <string name="south_pole">ΝΠ</string>
 
     <string name="andromeda" translation_description="Name of the Andromeda constellation">Ανδρομέδα</string>
-    <string name="aquarius" translation_description="Name of the Aquarius constellation">Aquarius</string>
-    <string name="aquila" translation_description="Name of the Aquila constellation">Aquila</string>
-    <string name="aries" translation_description="Name of the Aries constellation">Aries</string>
-    <string name="auriga" translation_description="Name of the Auriga constellation">Auriga</string>
-    <string name="bootes" translation_description="Name of the Bootes constellation">Bootes</string>
+    <string name="aquarius" translation_description="Name of the Aquarius constellation">Υδροχόος</string>
+    <string name="aquila" translation_description="Name of the Aquila constellation">Αετός</string>
+    <string name="aries" translation_description="Name of the Aries constellation">Κριός</string>
+    <string name="auriga" translation_description="Name of the Auriga constellation">Ηνίοχος</string>
+    <string name="bootes" translation_description="Name of the Bootes constellation">Βοώτης</string>
     <string name="cancer" translation_description="Name of the Cancer constellation">Καρκίνος</string>
-    <string name="canis_major" translation_description="Name of the Canis Major constellation">Canis Major</string>
-    <string name="capricornus" translation_description="Name of the Capricornus constellation">Capricornus</string>
-    <string name="carina" translation_description="Name of the Carina constellation">Carina</string>
+    <string name="canis_major" translation_description="Name of the Canis Major constellation">Μέγας Κύων</string>
+    <string name="capricornus" translation_description="Name of the Capricornus constellation">Αιγόκερως</string>
+    <string name="carina" translation_description="Name of the Carina constellation">Τρόπις</string>
     <string name="cassiopeia" translation_description="Name of the Cassiopeia constellation">Κασσιόπη</string>
     <string name="centaurus" translation_description="Name of the Centaurus constellation">Κένταυρος</string>
-    <string name="cetus" translation_description="Name of the Cetus constellation">Cetus</string>
-    <string name="crux" translation_description="Name of the Crux constellation">Crux</string>
+    <string name="cetus" translation_description="Name of the Cetus constellation">Κήτος</string>
+    <string name="crux" translation_description="Name of the Crux constellation">Σταυρός του Νότου</string>
     <string name="cygnus" translation_description="Name of the Cygnus constellation">Κύκνος</string>
     <string name="draco" translation_description="Name of the Draco constellation">Δράκοντας</string>
-    <string name="eridanus" translation_description="Name of the Eridanus constellation">Eridanus</string>
-    <string name="gemini" translation_description="Name of the Gemini constellation">Gemini</string>
-    <string name="grus" translation_description="Name of the Grus constellation">Grus</string>
+    <string name="eridanus" translation_description="Name of the Eridanus constellation">Ηριδανός</string>
+    <string name="gemini" translation_description="Name of the Gemini constellation">Δίδυμοι</string>
+    <string name="grus" translation_description="Name of the Grus constellation">Γερανός</string>
     <string name="hercules" translation_description="Name of the Hercules constellation">Ηρακλής</string>
-    <string name="hydrus" translation_description="Name of the Hydrus constellation">Hydrus</string>
-    <string name="leo" translation_description="Name of the Leo constellation">Leo</string>
-    <string name="libra" translation_description="Name of the Libra constellation">Libra</string>
-    <string name="lupus" translation_description="Name of the Lupus constellation">Lupus</string>
+    <string name="hydrus" translation_description="Name of the Hydrus constellation">Ύδρος</string>
+    <string name="leo" translation_description="Name of the Leo constellation">Λέων</string>
+    <string name="libra" translation_description="Name of the Libra constellation">Ζυγός</string>
+    <string name="lupus" translation_description="Name of the Lupus constellation">Λύκος</string>
     <string name="lyra" translation_description="Name of the Lyra constellation">Λύρα</string>
-    <string name="ophiuchus" translation_description="Name of the Ophiuchus constellation">Ophiuchus</string>
+    <string name="ophiuchus" translation_description="Name of the Ophiuchus constellation">Οφιούχος</string>
     <string name="orion" translation_description="Name of the Orion constellation">Ορίων</string>
     <string name="pavo" translation_description="Name of the Pavo constellation">Ταώς</string>
     <string name="pegasus" translation_description="Name of the Pegasus constellation">Πήγασος</string>
     <string name="perseus" translation_description="Name of the Perseus constellation">Περσέας</string>
     <string name="phoenix" translation_description="Name of the Phoenix constellation">Φοίνικας</string>
     <string name="pisces" translation_description="Name of the Pisces constellation">Ιχθύες</string>
-    <string name="piscis_austrinus" translation_description="Name of the Piscis Austrinus constellation">Piscis Austrinus</string>
+    <string name="piscis_austrinus" translation_description="Name of the Piscis Austrinus constellation">Νότιος Ιχθύς</string>
     <string name="puppis" translation_description="Name of the Puppis constellation">Πρύμνη</string>
     <string name="sagittarius" translation_description="Name of the Sagittarius constellation">Τοξότης</string>
     <string name="scorpius" translation_description="Name of the Scorpius constellation">Σκορπιός</string>
     <string name="taurus" translation_description="Name of the Taurus constellation">Ταύρος</string>
-    <string name="tucana" translation_description="Name of the Tucana constellation">Tucana</string>
+    <string name="tucana" translation_description="Name of the Tucana constellation">Τουκάνα</string>
     <string name="ursa_major" translation_description="Name of the Ursa Major constellation">Μεγάλη Άρκτος</string>
     <string name="ursa_minor" translation_description="Name of the Ursa Minor constellation">Μικρή Άρκτος</string>
     <string name="vela" translation_description="Name of the Vela constellation">Ιστία</string>
@@ -195,11 +195,11 @@
     <string name="capricorn" translation_description="Name of the Capricorn constellation">Αιγόκερως</string>
     <string name="southern_cross" translation_description="Name of the Southern Cross constellation">Νότιος Σταυρός</string>
     <string name="scorpio" translation_description="Name of the Scorpio constellation">Σκορπιός</string>
-    <string name="little_dipper" translation_description="Name of the Little Dipper constellation">Little Dipper</string>
-    <string name="little_bear" translation_description="Name of the Little Bear constellation">Little Bear</string>
-    <string name="big_dipper" translation_description="Name of the Big Dipper constellation">Big Dipper</string>
-    <string name="great_bear" translation_description="Name of the Great Bear constellation">Great Bear</string>
-    <string name="plough" translation_description="Name of the Plough constellation">Plough</string>
+    <string name="little_dipper" translation_description="Name of the Little Dipper constellation">Μικρά Άρκτος</string>
+    <string name="little_bear" translation_description="Name of the Little Bear constellation">Μικρά Άρκτος</string>
+    <string name="big_dipper" translation_description="Name of the Big Dipper constellation">Μεγάλη Άρκτος</string>
+    <string name="great_bear" translation_description="Name of the Great Bear constellation">Μεγάλη Άρκτος</string>
+    <string name="plough" translation_description="Name of the Plough constellation">Μεγάλη Άρκτος</string>
 
     <string name="sirius" translation_description="Name of the Star Sirius">Sirius</string>
     <string name="canopus" translation_description="Name of the Star Canopus">Canopus</string>
