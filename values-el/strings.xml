@@ -191,8 +191,8 @@
     <string name="ursa_major" translation_description="Name of the Ursa Major constellation">Μεγάλη Άρκτος</string>
     <string name="ursa_minor" translation_description="Name of the Ursa Minor constellation">Μικρή Άρκτος</string>
     <string name="vela" translation_description="Name of the Vela constellation">Vela</string>
-    <string name="virgo" translation_description="Name of the Virgo constellation">Virgo</string>
-    <string name="capricorn" translation_description="Name of the Capricorn constellation">Capricorn</string>
+    <string name="virgo" translation_description="Name of the Virgo constellation">Παρθένος</string>
+    <string name="capricorn" translation_description="Name of the Capricorn constellation">Αιγόκερως</string>
     <string name="southern_cross" translation_description="Name of the Southern Cross constellation">Southern Cross</string>
     <string name="scorpio" translation_description="Name of the Scorpio constellation">Σκορπιός</string>
     <string name="little_dipper" translation_description="Name of the Little Dipper constellation">Little Dipper</string>
