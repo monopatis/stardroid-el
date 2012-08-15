@@ -37,7 +37,7 @@
     <string name="show_grid_pref">RA/Dec Grid</string>
     <string name="show_horizon_pref">Horizon</string>
     <string name="show_sky_gradient" translation_description="This is a shading of the color of the sky used for effect">Sky Gradient</string>
-    <string name="show_meteors_pref">Βροχή Μετεωριτών</string>
+    <string name="show_meteors_pref">Βροχή διαττόντων</string>
     <string name="sensor_prefs">Sensor Settings</string>
     <string name="sensor_speed" translation_description="How quickly the sensor should send us data">Sensor Speed</string>
     <string name="sensor_damping" translation_description="The amount of smoothing applied to the sensor outputs.">Damping</string>
@@ -394,8 +394,8 @@
     <string name="load_kml_file">Load</string>
     <string name="enable_analytics">Send usage statistics</string>
     <string name="enable_analytics_desc">Make Sky Map better by sending anonymous data to Google Analytics</string>
-    <string name="leonids" translation_description="Meteor Shower">Leonids</string>
-    <string name="geminids" translation_description="Meteor Shower">Geminids</string>
+    <string name="leonids" translation_description="Meteor Shower">Λεοντίδες</string>
+    <string name="geminids" translation_description="Meteor Shower">Διδυμίδες</string>
     <string name="quadrantids" translation_description="Meteor Shower">Quadrantids</string>
     <string name="lyrids" translation_description="Meteor Shower">Lyrids</string>
     <string name="aquariids" translation_description="Meteor Shower">Eta Aquariids</string>
