@@ -9,9 +9,9 @@
         <item>Ηλιακή έκλειψη της 29η Μαΐου 1919</item>
     </string-array>
     <string-array name="sensor_speed">
-        <item translation_description="Slow sensor speed">Αργά</item>
+        <item translation_description="Slow sensor speed">Αργή</item>
         <item translation_description="Normal sensor speed">Μέτρια</item>
-        <item translation_description="Fast sensor speed">Γρήγορα</item>
+        <item translation_description="Fast sensor speed">Γρήγορη</item>
     </string-array>
     <string-array name="sensor_damping">
         <item translation_description="Standard sensor damping factor">Τυπική</item>
