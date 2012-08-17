@@ -9,7 +9,7 @@
     <string name="go">Πάμε!</string>
     <string name="location_prefs">Ρυθμίσεις τοποθεσίας</string>
     <string name="force_gps_pref">Χρήση GPS πάντα</string>
-    <string name="force_gps_pref_hint"  translation_description="this string continues from \'Always use GPS\'">if enabled, even if network location is available</string>
+    <string name="force_gps_pref_hint"  translation_description="this string continues from \'Always use GPS\'">ακόμα κι αν είναι διαθέσιμη η τοποθεσία από ασύρματα δίκτυα</string>
     <string name="no_use_gps_pref">Επιλογή τοποθεσίας χειροκίνητα</string>
     <string name="no_use_gps_pref_hint">Πληκτρολογήστε ένα μέρος ή ένα γεωγραφικό πλάτος/μήκος</string>
     <string name="location_placename">Τοπωνύμιο</string>
@@ -21,7 +21,7 @@
     <string name="location_no_auto">Your phone does not support auto-location.   You can set the location manually in preferences.</string>
     <string name="location_offer_to_enable">Auto-location is disabled.  Would you like to enable it?</string>
     <string name="location_offer_to_enable_gps_title">Auto-location disabled</string>
-    <string name="location_set_auto">Η τοποθεσία καθορίστηκε από το %1$s σε %2$s</string>
+    <string name="location_set_auto">Η τοποθεσία καθορίστηκε από %1$s σε %2$s</string>
     <string name="location_unable_to_geocode">Unable to decode your location - perhaps your network isn\'t available?</string>
     <string name="location_not_found_title"  translation_description="dialog box title when location not found">Sorry</string>
     <string name="location_not_found"  translation_description="dialog message when placename not found">%s not found.</string>
@@ -69,7 +69,7 @@
     <string name="many_search_results_text">Παρακαλώ επιλέξτε ένα</string>
     <string name="searching_for_text">Αναζήτηση για %s...</string>
     <string name="found_target_text">Βρέθηκε %s.</string>
-    <string name="other" translation_description="A preference category (ie preferences that don't belong in any other category)">Άλλο</string>
+    <string name="other" translation_description="A preference category (ie preferences that don't belong in any other category)">Άλλα</string>
     <string name="planetary_images">Εμφάνιση Εικόνων Πλανητών</string>
     <string name="menu_time" >Ταξίδι στον Χρόνο</string>
     <string name="time_travel_start_message" >Ταξιδεύοντας μέσα στο χρόνο ...</string>
@@ -85,19 +85,19 @@
         Now visiting: %s</string>
     <string name="time_travel_label_past" translation_description="Label showing that we are in the past">Ταξίδι στον Χρόνο: Παρελθόν</string>
     <string name="time_travel_label_future" translation_description="Label showing that we are in the future">Ταξίδι στον Χρόνο: Μέλλον</string>
-    <string name="time_travel_stopped" translation_description="Label showing rate of travel through time">Ταξίδι στον Χρόνο παγωμένο</string>
-    <string name="time_travel_second_speed" translation_description="Label showing rate of travel through time.  The symbol means greater than.">Ταξιδεύοντας &gt; @ 1 δευτ/δευτ</string>
-    <string name="time_travel_minute_speed" translation_description="Label showing rate of travel through time">Ταξιδεύοντας &gt; @ 1 λεπτ/δευτ</string>
-    <string name="time_travel_10minute_speed" translation_description="Label showing rate of travel through time">Ταξιδεύοντας &gt; @ 10 λεπτ/δευτ</string>
-    <string name="time_travel_hour_speed" translation_description="Label showing rate of travel through time">Ταξιδεύοντας &gt; @ 1 ώρα/δευτ</string>
-    <string name="time_travel_day_speed" translation_description="Label showing rate of travel through time">Ταξιδεύοντας &gt; @ 1 μέρα/δευτ</string>
-    <string name="time_travel_week_speed" translation_description="Label showing rate of travel through time">Ταξιδεύοντας &gt; @ 1 βδομ/δευτ</string>
-    <string name="time_travel_second_speed_back" translation_description="Label showing rate of travel through time">Ταξιδεύοντας &lt; @ 1 δευτ/δευτ</string>
-    <string name="time_travel_minute_speed_back" translation_description="Label showing rate of travel through time">Ταξιδεύοντας &lt; @ 1 λεπτ/δευτ</string>
-    <string name="time_travel_10minute_speed_back" translation_description="Label showing rate of travel through time">Ταξιδεύοντας &lt; @ 10 λεπτ/δευτ</string>
-    <string name="time_travel_hour_speed_back" translation_description="Label showing rate of travel through time">Ταξιδεύοντας &lt; @ 1 ώρα/δευ</string>
-    <string name="time_travel_day_speed_back" translation_description="Label showing rate of travel through time">Ταξιδεύοντας &lt; @ 1 μέρα/δευτ</string>
-    <string name="time_travel_week_speed_back" translation_description="Label showing rate of travel through time">Ταξιδεύοντας &lt; @ 1 βδομ/δευτ</string>
+    <string name="time_travel_stopped" translation_description="Label showing rate of travel through time">Παγωμένο Ταξίδι</string>
+    <string name="time_travel_second_speed" translation_description="Label showing rate of travel through time.  The symbol means greater than.">Ρυθμός &gt; @ 1 δευ/δευ</string>
+    <string name="time_travel_minute_speed" translation_description="Label showing rate of travel through time">Ρυθμός &gt; @ 1 λεπτ/δευ</string>
+    <string name="time_travel_10minute_speed" translation_description="Label showing rate of travel through time">Ρυθμός &gt; @ 10 λεπτ/δευ</string>
+    <string name="time_travel_hour_speed" translation_description="Label showing rate of travel through time">Ρυθμός &gt; @ 1 ώρα/δευ</string>
+    <string name="time_travel_day_speed" translation_description="Label showing rate of travel through time">Ρυθμός &gt; @ 1 μέρα/δευ</string>
+    <string name="time_travel_week_speed" translation_description="Label showing rate of travel through time">Ρυθμός &gt; @ 1 βδομ/δευ</string>
+    <string name="time_travel_second_speed_back" translation_description="Label showing rate of travel through time">Ρυθμός &lt; @ 1 δευτ/δευ</string>
+    <string name="time_travel_minute_speed_back" translation_description="Label showing rate of travel through time">Ρυθμός &lt; @ 1 λεπτ/δευ</string>
+    <string name="time_travel_10minute_speed_back" translation_description="Label showing rate of travel through time">Ρυθμός &lt; @ 10 λεπτ/δευ</string>
+    <string name="time_travel_hour_speed_back" translation_description="Label showing rate of travel through time">Ρυθμός &lt; @ 1 ώρα/δευ</string>
+    <string name="time_travel_day_speed_back" translation_description="Label showing rate of travel through time">Ρυθμός &lt; @ 1 μέρα/δευ</string>
+    <string name="time_travel_week_speed_back" translation_description="Label showing rate of travel through time">Ρυθμός &lt; @ 1 βδομ/δευ</string>
     <string name="use_sound_effects" translation_description="A preferences menu label">Ενεργοποίηση ήχου</string>
 
     <string name="enable_layer_toast">Ενεργοποίηση %s στρώσης</string>
@@ -248,7 +248,7 @@
     <string name="denebola" translation_description="Name of the Star Denebola">Ντενέμπολα</string>
     <string name="alphekka" translation_description="Name of the Star Alphekka">Αλφέκκα</string>
     <string name="etamin" translation_description="Name of the Star Etamin">Ελτανίν</string>
-    <string name="kaus" translation_description="Name of the Star Kaus">Kaus</string>
+    <string name="kaus" translation_description="Name of the Star Kaus">Κάους Αουστράλις</string>
     <string name="shedir" translation_description="Name of the Star Shedir">Σεντίρ</string>
     <string name="caph" translation_description="Name of the Star Caph">Καφ</string>
     <string name="izar" translation_description="Name of the Star Izar">Ιζάρ</string>
